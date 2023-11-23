@@ -403,3 +403,4 @@ zlib-ng=2.0.7=hb7f2c08_0
 zstandard=0.21.0=py310h151724a_1
 zstd=1.5.5=h829000d_0
 holidays==0.35
+statsmodels
