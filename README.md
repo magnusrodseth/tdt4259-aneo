@@ -1,5 +1,13 @@
 # TDT4259 - Applied Data Science
 
+## The process
+
+The notebooks are numbered in roughly the order they were created. This gives the reader a sense of the process we went through when creating the project.
+
+## The data
+
+The data checkpoints are stored in the `data` directory. Raw, cleaned, processed and final data are stored in respective subdirectories.
+
 ## Running the code
 
 ### Prerequisites for running the code
